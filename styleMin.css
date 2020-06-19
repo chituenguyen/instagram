@@ -1,0 +1,26 @@
+.min{
+	margin-top: 0.5rem;
+	display: flex;
+	align-items: center;
+	width: 50vh;
+}
+.min .avatar img{
+	height: 50px;
+	width: 50px;
+}
+.min .content {
+	margin-left: 1rem;
+	flex-grow: 1;
+}
+.min .content .pub{
+	margin-top: 0.5rem;
+	color: rgba(0,0,0,0.4);
+}
+.min .follow {
+	margin-right: 1rem;
+	color: #0095f6;
+}
+
+.min a{
+	text-decoration: none;
+}

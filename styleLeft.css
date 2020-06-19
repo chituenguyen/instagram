@@ -1,0 +1,29 @@
+.profile img{
+	width: 50px;
+	height: 50px;
+}
+.profile {
+	display: flex;
+	align-items: center;
+}
+.profile .name .full {
+	color: rgba(0,0,0,0.4);
+}
+
+.profile .name .ins{
+	font-weight: 600;
+}
+
+.suggest{
+	display: flex;
+	margin-top: 1rem;
+	width: 50vh;
+}
+.suggest .right{
+	flex-grow: 1;
+	color: rgba(0,0,0,0.6);
+	font-weight: 400;
+}
+.suggest .left1{
+	margin-right: 15px;
+}
